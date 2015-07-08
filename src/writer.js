@@ -23,11 +23,16 @@ let getSpriteXml = function (svgs) {
         }).join("\n") + '</svg>';
 };
 
-export default function (srcFn) {
-    return function (filePath) {
-        return Promise.resolve(srcFn()).then(function (svgs) {
-            return writeToFile(filePath, getSpriteXml(svgs));
-        });
-    };
+let publicWriteToFile = function (filePath, svgs) {
+    return writeToFile(filePath, getSpriteXml(svgs));
 };
+
+let publicWriteToConsole = function (svgs) {
+    return new Promise(function () {
+        console.log(getSpriteXml(svgs));
+    });
+};
+
+export {publicWriteToFile as writeToFile};
+export {publicWriteToConsole as writeToConsole};
 

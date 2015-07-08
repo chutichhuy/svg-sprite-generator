@@ -18,6 +18,6 @@ export default function (svgs) {
             viewBox: svgTag.attr('viewBox'),
             id: s[0] ? s[0] : (svgTag.attr('id') ? svgTag.attr('id') : undefined)
         } : undefined;
-    }).filter;
+    });
 };
 

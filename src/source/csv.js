@@ -1,11 +1,20 @@
-import {* as 'fs'} from 'fs';
+import {* as "fs"} from "fs";
+import {* as "u"} from "../util";
+import {default as parse} from "../parser";
 
 let csvStringToSvgContents = function (str) {
-    return str.split("\n").map(function (line) {
+    return (function (fileList) {
+        return new Promise(function (res, rej) { 
+            let q = u.fileNameToObjectQueue(res);
+            fileList.forEach(function (item) {
+                q.push(item);
+            });
+        });
+    })(str.split("\n").map(function (line) {
         return line.split(',').map(function (item) {
             return item.trim();
         });
-    });
+    }));
 };
 
 /*
@@ -16,12 +25,14 @@ let csvStringToSvgContents = function (str) {
  */
 export default function (filePath) {
     return function () {
-        fs.readFile(filePath, function (err, data) {
-            if (err) {
-                return rej(err);
-            }
-            return res(csvStringToSvgContents(data.toString('utf8')));
-        });
+        return new Promise(function () {
+            fs.readFile(filePath, function (err, data) {
+                if (err) {
+                    return rej(err);
+                }
+                return csvStringToSvgContents(data.toString('utf8')).then(res);
+            });
+        }).then(parse);
     };
 };
 
