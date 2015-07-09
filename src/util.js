@@ -38,7 +38,7 @@ let fileToObjectQueue = function (drain) {
     let results = [];
 
     let q = async.queue(function (task, callback) {
-        if (fs.existsSync(task)) {
+        if (fs.existsSync(task.file)) {
             fileNameToObject(task.file, task.id).then(function (o) {
                 results.push(o);
                 callback();

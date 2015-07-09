@@ -14,6 +14,7 @@ export default function () {
         .option("-d --directory <directory>", "SVG folder")
         .option("-l --list <list>", "List of files")
         .option("-o --output <output>", "Out put to file")
+        .option("-s --sprite <sprite>", "Another sprite file")
         .parse(process.argv);
 
     let fnList = ["sprite", "csv", "directory", "list"].filter(function (i) {
@@ -44,14 +45,10 @@ export default function () {
         if (results.length == 0) {
             return;
         }
-
+        // reduces the results into one
         let svgs = results.reduce(function (prev, curr) {
-            return prev.reduce(function (p, c) {
-                return p.concat(c);
-            }).concat(curr.reduce(function(p, c) {
-                return p.concat(c);
-            }));
-        });
+            return prev.concat(curr);
+        }, []);
 
         if (program.output) {
             writer.writeToFile(program.output, svgs); 

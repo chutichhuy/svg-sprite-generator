@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg">
+<symbol id="duo-alarm-clock" viewBox="0 0 56 64">
+    <!-- Generator: Sketch 3.0.3 (7891) - http://www.bohemiancoding.com/sketch -->
+    <title class="">Alarm-clock</title>
+    
+    <defs class=""/>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" class="">
+        <g id="Alarm-clock" transform="translate(1.000000, 1.000000)" stroke-width="2" class="">
+            <g id="Page-1" class="">
+                <g id="Alarm-clock" class="">
+                    <path d="M12,52 L4,62" id="Shape_3_" stroke="#78ae42" class="si-duo-alarm-clock-stand si-duo-alarm-clock-stroke si-duo-alarm-clock-base si-duo-stroke si-duo-base" style=""/>
+                    <path d="M42,52 L50,62" id="Shape_4_" stroke="#78ae42" class="si-duo-alarm-clock-stand si-duo-alarm-clock-stroke si-duo-alarm-clock-base si-duo-stroke si-duo-base" style=""/>
+                    <circle id="Oval" stroke="#78ae42" cx="27" cy="31" r="27" class="si-duo-alarm-clock-main si-duo-alarm-clock-stroke si-duo-alarm-clock-base si-duo-stroke si-duo-base" style=""/>
+                    <path d="M26,31 L42.8,31" id="Shape_5_" stroke="rgb(56, 132, 152)" class="si-duo-alarm-clock-hour-hand si-duo-alarm-clock-stroke si-duo-alarm-clock-accent si-duo-stroke si-duo-accent" style=""/>
+                    <path d="M27,12 L27,31" id="Shape_6_" stroke="rgb(56, 132, 152)" class="si-duo-alarm-clock-minute-hand si-duo-alarm-clock-stroke si-duo-alarm-clock-accent si-duo-stroke si-duo-accent" style=""/>
+                    <path d="M2.9,13 C2.3,11.8 2,10.4 2,9 C2,4 6,0 11,0 C13.3,0 15.4,0.9 17,2.3" id="Shape_1_" stroke="#78ae42" class="si-duo-alarm-clock-bell si-duo-alarm-clock-stroke si-duo-alarm-clock-base si-duo-stroke si-duo-base" style=""/>
+                    <path d="M51.1,13 C51.7,11.8 52,10.4 52,9 C52,4 48,0 43,0 C40.7,0 38.6,0.9 37,2.3" id="Shape_2_" stroke="#78ae42" class="si-duo-alarm-clock-bell si-duo-alarm-clock-stroke si-duo-alarm-clock-base si-duo-stroke si-duo-base" style=""/>
+                </g>
+            </g>
+        </g>
+    </g>
+
+
+</symbol>
+<symbol id="duo-circle-gear" viewBox="0 0 64 64">
+    <!-- Generator: Sketch 3.0.3 (7891) - http://www.bohemiancoding.com/sketch -->
+    <title class="">Circle-gear</title>
+    
+    <defs class=""/>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" class="">
+        <g id="Circle-gear" transform="translate(1.000000, 1.000000)" stroke-width="2" class="">
+            <g id="Page-1" class="">
+                <g id="Circle-gear" class="">
+                    <circle id="Oval" stroke="#78ae42" cx="31" cy="31" r="31" class="si-duo-circle-gear-circle si-duo-circle-gear-stroke si-duo-circle-gear-base si-duo-stroke si-duo-base" style=""/>
+                    <path d="M46,34 L46,28 L42.6,28 C42.3,26.9 41.9,25.9 41.3,24.9 L43.7,22.5 L39.5,18.3 L37.1,20.7 C36.1,20.1 35.1,19.7 34,19.4 L34,16 L28,16 L28,19.4 C26.9,19.7 25.9,20.1 24.9,20.7 L22.5,18.3 L18.3,22.5 L20.7,24.9 C20.1,25.9 19.7,26.9 19.4,28 L16,28 L16,34 L19.4,34 C19.7,35.1 20.1,36.1 20.7,37.1 L18.3,39.5 L22.5,43.7 L24.9,41.3 C25.9,41.9 26.9,42.3 28,42.6 L28,46 L34,46 L34,42.6 C35.1,42.3 36.1,41.9 37.1,41.3 L39.5,43.7 L43.7,39.5 L41.3,37.1 C41.9,36.1 42.3,35.1 42.6,34 L46,34 L46,34 Z" id="Shape" stroke="#78ae42" class="si-duo-circle-gear-gear si-duo-circle-gear-stroke si-duo-circle-gear-base si-duo-stroke si-duo-base" style=""/>
+                    <circle id="Oval_1_" stroke="rgb(56, 132, 152)" cx="31" cy="31" r="4" class="si-duo-circle-gear-gear-circle si-duo-circle-gear-gear si-duo-circle-gear-stroke si-duo-circle-gear-accent si-duo-stroke si-duo-accent" style=""/>
+                </g>
+            </g>
+        </g>
+    </g>
+
+
+</symbol>
+<symbol id="duo-gear" viewBox="0 0 64 64">
+    <!-- Generator: Sketch 3.0.3 (7891) - http://www.bohemiancoding.com/sketch -->
+    <title class="">Gear</title>
+    
+    <defs class=""/>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" class="">
+        <g id="Gear" transform="translate(1.000000, 1.000000)" stroke-width="2" class="">
+            <g id="Page-1" class="">
+                <g id="Gear" class="">
+                    <path d="M62,36 L62,26 L55.5,26 C54.9,22.8 53.6,19.8 51.9,17.2 L56.5,12.6 L49.4,5.5 L44.8,10.1 C42.2,8.4 39.2,7.1 36,6.5 L36,0 L26,0 L26,6.5 C22.8,7.1 19.8,8.4 17.2,10.1 L12.6,5.5 L5.5,12.6 L10.1,17.2 C8.4,19.8 7.1,22.8 6.5,26 L0,26 L0,36 L6.5,36 C7.1,39.2 8.4,42.2 10.1,44.8 L5.5,49.4 L12.6,56.5 L17.2,51.9 C19.8,53.6 22.8,54.9 26,55.5 L26,62 L36,62 L36,55.5 C39.2,54.9 42.2,53.6 44.8,51.9 L49.4,56.5 L56.5,49.4 L51.9,44.8 C53.6,42.2 54.9,39.2 55.5,36 L62,36 L62,36 Z" id="Shape" stroke="#78ae42" class="si-duo-gear-main si-duo-gear-stroke si-duo-gear-base si-duo-stroke si-duo-base" style=""/>
+                    <circle id="Oval" stroke="rgb(56, 132, 152)" cx="31" cy="31" r="9" class="si-duo-gear-circle si-duo-gear-stroke si-duo-gear-accent si-duo-stroke si-duo-accent" style=""/>
+                </g>
+            </g>
+        </g>
+    </g>
+
+</symbol>
+<symbol id="duo-keyboard" viewBox="0 0 64 27">
+    <!-- Generator: Sketch 3.0.3 (7891) - http://www.bohemiancoding.com/sketch -->
+    <title class="">Keyboard</title>
+    
+    <defs class=""/>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" class="">
+        <g id="Keyboard" transform="translate(1.000000, 1.000000)" stroke-width="2" class="">
+            <rect id="Rectangle-path" stroke="#78ae42" x="0" y="0" width="62" height="25" class="si-duo-keyboard-board si-duo-keyboard-stroke si-duo-keyboard-base si-duo-stroke si-duo-base" style=""/>
+            <path d="M21,20 L43,20" id="Shape" stroke="rgb(56, 132, 152)" class="si-duo-keyboard-keyboard si-duo-keyboard-stroke si-duo-keyboard-accent si-duo-stroke si-duo-accent" style=""/>
+            <path d="M4,5 L10,5" id="Shape" stroke="#78ae42" class="si-duo-keyboard-keyboard si-duo-keyboard-stroke si-duo-keyboard-base si-duo-stroke si-duo-base" style=""/>
+            <path d="M12,5 L18,5" id="Shape" stroke="#78ae42" class="si-duo-keyboard-keyboard si-duo-keyboard-stroke si-duo-keyboard-base si-duo-stroke si-duo-base" style=""/>
+            <path d="M20,5 L26,5" id="Shape" stroke="#78ae42" class="si-duo-keyboard-keyboard si-duo-keyboard-stroke si-duo-keyboard-base si-duo-stroke si-duo-base" style=""/>
+            <path d="M28,5 L34,5" id="Shape" stroke="#78ae42" class="si-duo-keyboard-keyboard si-duo-keyboard-stroke si-duo-keyboard-base si-duo-stroke si-duo-base" style=""/>
+            <path d="M36,5 L42,5" id="Shape" stroke="#78ae42" class="si-duo-keyboard-keyboard si-duo-keyboard-stroke si-duo-keyboard-base si-duo-stroke si-duo-base" style=""/>
+            <path d="M44,5 L50,5" id="Shape" stroke="#78ae42" class="si-duo-keyboard-keyboard si-duo-keyboard-stroke si-duo-keyboard-base si-duo-stroke si-duo-base" style=""/>
+            <path d="M52,5 L58,5" id="Shape" stroke="#78ae42" class="si-duo-keyboard-keyboard si-duo-keyboard-stroke si-duo-keyboard-base si-duo-stroke si-duo-base" style=""/>
+            <path d="M6,15 L10,15" id="Shape" stroke="#78ae42" class="si-duo-keyboard-keyboard si-duo-keyboard-stroke si-duo-keyboard-base si-duo-stroke si-duo-base" style=""/>
+            <path d="M12,15 L18,15" id="Shape" stroke="#78ae42" class="si-duo-keyboard-keyboard si-duo-keyboard-stroke si-duo-keyboard-base si-duo-stroke si-duo-base" style=""/>
+            <path d="M20,15 L26,15" id="Shape" stroke="#78ae42" class="si-duo-keyboard-keyboard si-duo-keyboard-stroke si-duo-keyboard-base si-duo-stroke si-duo-base" style=""/>
+            <path d="M28,15 L34,15" id="Shape" stroke="#78ae42" class="si-duo-keyboard-keyboard si-duo-keyboard-stroke si-duo-keyboard-base si-duo-stroke si-duo-base" style=""/>
+            <path d="M36,15 L42,15" id="Shape" stroke="#78ae42" class="si-duo-keyboard-keyboard si-duo-keyboard-stroke si-duo-keyboard-base si-duo-stroke si-duo-base" style=""/>
+            <path d="M44,15 L50,15" id="Shape" stroke="#78ae42" class="si-duo-keyboard-keyboard si-duo-keyboard-stroke si-duo-keyboard-base si-duo-stroke si-duo-base" style=""/>
+            <path d="M52,15 L56,15" id="Shape" stroke="#78ae42" class="si-duo-keyboard-keyboard si-duo-keyboard-stroke si-duo-keyboard-base si-duo-stroke si-duo-base" style=""/>
+            <path d="M8,10 L14,10" id="Shape" stroke="#78ae42" class="si-duo-keyboard-keyboard si-duo-keyboard-stroke si-duo-keyboard-base si-duo-stroke si-duo-base" style=""/>
+            <path d="M16,10 L22,10" id="Shape" stroke="#78ae42" class="si-duo-keyboard-keyboard si-duo-keyboard-stroke si-duo-keyboard-base si-duo-stroke si-duo-base" style=""/>
+            <path d="M24,10 L30,10" id="Shape" stroke="#78ae42" class="si-duo-keyboard-keyboard si-duo-keyboard-stroke si-duo-keyboard-base si-duo-stroke si-duo-base" style=""/>
+            <path d="M32,10 L38,10" id="Shape" stroke="#78ae42" class="si-duo-keyboard-keyboard si-duo-keyboard-stroke si-duo-keyboard-base si-duo-stroke si-duo-base" style=""/>
+            <path d="M40,10 L46,10" id="Shape" stroke="#78ae42" class="si-duo-keyboard-keyboard si-duo-keyboard-stroke si-duo-keyboard-base si-duo-stroke si-duo-base" style=""/>
+            <path d="M48,10 L54,10" id="Shape" stroke="#78ae42" class="si-duo-keyboard-keyboard si-duo-keyboard-stroke si-duo-keyboard-base si-duo-stroke si-duo-base" style=""/>
+        </g>
+    </g>
+
+</symbol>
+<symbol id="duo-test-tube" viewBox="0 0 38 64">
+<title class="">Test-tube</title>
+
+<g id="Page-1" class="">
+	<g id="Test-tube" transform="translate(0.000000, 1.000000)" class="">
+		<g id="Group" class="">
+			<path id="Shape_1_" fill="none" stroke="#78ae42" stroke-width="2" d="M5,1v47c0,7.732,6.268,14,14,14s14-6.268,14-14V0" class="si-duo-test-tube-test-tube si-duo-test-tube-stroke si-duo-test-tube-base si-duo-stroke si-duo-base" style=""/>
+			<path id="Shape" fill="none" stroke="#78ae42" stroke-width="2" d="M0,0h38" class="si-duo-test-tube-test-tube si-duo-test-tube-stroke si-duo-test-tube-base si-duo-stroke si-duo-base" style=""/>
+			<path id="Shape_2_" fill="none" stroke="#78ae42" stroke-width="2" d="M5,20c0,0,6.667,6.667,15,0s13,0,13,0" class="si-duo-test-tube-wave-line si-duo-test-tube-stroke si-duo-test-tube-base si-duo-stroke si-duo-base" style=""/>
+		</g>
+		<circle id="Oval" fill="none" stroke="rgb(56, 132, 152)" stroke-width="2" cx="11" cy="49" r="2" class="si-duo-test-tube-circle si-duo-test-tube-stroke si-duo-test-tube-accent si-duo-stroke si-duo-accent" style="">
+		</circle>
+		<circle id="Oval_1_" fill="none" stroke="rgb(56, 132, 152)" stroke-width="2" cx="17" cy="32" r="4" class="si-duo-test-tube-circle si-duo-test-tube-stroke si-duo-test-tube-accent si-duo-stroke si-duo-accent" style="">
+		</circle>
+		<circle id="Oval_2_" fill="none" stroke="rgb(56, 132, 152)" stroke-width="2" cx="27" cy="42" r="3" class="si-duo-test-tube-circle si-duo-test-tube-stroke si-duo-test-tube-accent si-duo-stroke si-duo-accent" style="">
+		</circle>
+		<circle id="Oval_3_" fill="none" stroke="rgb(56, 132, 152)" stroke-width="2" cx="23" cy="11" r="2" class="si-duo-test-tube-circle si-duo-test-tube-stroke si-duo-test-tube-accent si-duo-stroke si-duo-accent" style="">
+		</circle>
+	</g>
+</g>
+
+</symbol>
+<symbol id="duo-bicycle" viewBox="0 0 62 36">
+    <!-- Generator: Sketch 3.0.3 (7891) - http://www.bohemiancoding.com/sketch -->
+    <title class="">Bicycle</title>
+    
+    <defs class=""/>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" class="">
+        <g id="Bicycle" transform="translate(1.000000, 1.000000)" stroke-width="2" class="">
+            <circle id="Oval" stroke="#78ae42" cx="11" cy="23" r="11" class="si-duo-bicycle-wheel si-duo-bicycle-stroke si-duo-bicycle-base si-duo-stroke si-duo-base" style=""/>
+            <circle id="Oval" stroke="#78ae42" cx="49" cy="23" r="11" class="si-duo-bicycle-wheel si-duo-bicycle-stroke si-duo-bicycle-base si-duo-stroke si-duo-base" style=""/>
+            <path d="M49,24 L45,8 L45,2 L40,2" id="Shape" stroke="rgb(56, 132, 152)" class="si-duo-bicycle-main si-duo-bicycle-stroke si-duo-bicycle-accent si-duo-stroke si-duo-accent" style=""/>
+            <path d="M45,8 L25,8 L11,23 L27,26 L45,8" id="Shape" stroke="rgb(56, 132, 152)" class="si-duo-bicycle-main si-duo-bicycle-stroke si-duo-bicycle-accent si-duo-stroke si-duo-accent" style=""/>
+            <path d="M23,0 L27,26" id="Shape" stroke="rgb(56, 132, 152)" class="si-duo-bicycle-main si-duo-bicycle-stroke si-duo-bicycle-accent si-duo-stroke si-duo-accent" style=""/>
+            <path d="M20,0 L28,0" id="Shape" stroke="#78ae42" class="si-duo-bicycle-seat si-duo-bicycle-stroke si-duo-bicycle-base si-duo-stroke si-duo-base" style=""/>
+        </g>
+    </g>
+
+</symbol></svg>

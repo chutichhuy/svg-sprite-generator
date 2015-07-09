@@ -1,3 +1,39 @@
 # svg-sprite-generator
-A SVG sprite generator
-WORKS
+
+A SVG sprite generator.
+
+## Installation
+
+This program need Node.js to run. You can install using ```npm```, Node's default package manager. 
+
+```
+npm install -g svg-sprite-generator
+```
+
+## Usage
+
+Generate sprite from a directory of SVG files
+```
+svg-sprite-generate -d path/to/directory/of/svg/files -o path/to/sprite.svg
+```
+
+Or specify SVG files to generate from. File paths can be separated with a comma.
+
+```
+svg-sprite-generate -l path/to/file1.svg,path/to/file2.svg -o path/to/sprite.svg
+```
+
+Or use a CSV file. The first column contains symbol IDs, the second contains SVG file paths.
+
+```csv
+duo-alarm-clock, test/svg/duo-alarm-clock.svg
+duo-bicycle, test/svg/duo-bicycle.svg
+```
+The command
+
+```
+svg-sprite-generate -c path/to/csv.csv -o path/to/sprite.svg
+```
+
+
+
