@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg">
+<symbol id="duo-alarm-clock" viewBox="0 0 56 64">
+    <!-- Generator: Sketch 3.0.3 (7891) - http://www.bohemiancoding.com/sketch -->
+    <title class="">Alarm-clock</title>
+    
+    <defs class=""/>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" class="">
+        <g id="Alarm-clock" transform="translate(1.000000, 1.000000)" stroke-width="2" class="">
+            <g id="Page-1" class="">
+                <g id="Alarm-clock" class="">
+                    <path d="M12,52 L4,62" id="Shape_3_" stroke="#78ae42" class="si-duo-alarm-clock-stand si-duo-alarm-clock-stroke si-duo-alarm-clock-base si-duo-stroke si-duo-base" style=""/>
+                    <path d="M42,52 L50,62" id="Shape_4_" stroke="#78ae42" class="si-duo-alarm-clock-stand si-duo-alarm-clock-stroke si-duo-alarm-clock-base si-duo-stroke si-duo-base" style=""/>
+                    <circle id="Oval" stroke="#78ae42" cx="27" cy="31" r="27" class="si-duo-alarm-clock-main si-duo-alarm-clock-stroke si-duo-alarm-clock-base si-duo-stroke si-duo-base" style=""/>
+                    <path d="M26,31 L42.8,31" id="Shape_5_" stroke="rgb(56, 132, 152)" class="si-duo-alarm-clock-hour-hand si-duo-alarm-clock-stroke si-duo-alarm-clock-accent si-duo-stroke si-duo-accent" style=""/>
+                    <path d="M27,12 L27,31" id="Shape_6_" stroke="rgb(56, 132, 152)" class="si-duo-alarm-clock-minute-hand si-duo-alarm-clock-stroke si-duo-alarm-clock-accent si-duo-stroke si-duo-accent" style=""/>
+                    <path d="M2.9,13 C2.3,11.8 2,10.4 2,9 C2,4 6,0 11,0 C13.3,0 15.4,0.9 17,2.3" id="Shape_1_" stroke="#78ae42" class="si-duo-alarm-clock-bell si-duo-alarm-clock-stroke si-duo-alarm-clock-base si-duo-stroke si-duo-base" style=""/>
+                    <path d="M51.1,13 C51.7,11.8 52,10.4 52,9 C52,4 48,0 43,0 C40.7,0 38.6,0.9 37,2.3" id="Shape_2_" stroke="#78ae42" class="si-duo-alarm-clock-bell si-duo-alarm-clock-stroke si-duo-alarm-clock-base si-duo-stroke si-duo-base" style=""/>
+                </g>
+            </g>
+        </g>
+    </g>
+
+</symbol>
+<symbol id="duo-bicycle" viewBox="0 0 62 36">
+    <!-- Generator: Sketch 3.0.3 (7891) - http://www.bohemiancoding.com/sketch -->
+    <title class="">Bicycle</title>
+    
+    <defs class=""/>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" class="">
+        <g id="Bicycle" transform="translate(1.000000, 1.000000)" stroke-width="2" class="">
+            <circle id="Oval" stroke="#78ae42" cx="11" cy="23" r="11" class="si-duo-bicycle-wheel si-duo-bicycle-stroke si-duo-bicycle-base si-duo-stroke si-duo-base" style=""/>
+            <circle id="Oval" stroke="#78ae42" cx="49" cy="23" r="11" class="si-duo-bicycle-wheel si-duo-bicycle-stroke si-duo-bicycle-base si-duo-stroke si-duo-base" style=""/>
+            <path d="M49,24 L45,8 L45,2 L40,2" id="Shape" stroke="rgb(56, 132, 152)" class="si-duo-bicycle-main si-duo-bicycle-stroke si-duo-bicycle-accent si-duo-stroke si-duo-accent" style=""/>
+            <path d="M45,8 L25,8 L11,23 L27,26 L45,8" id="Shape" stroke="rgb(56, 132, 152)" class="si-duo-bicycle-main si-duo-bicycle-stroke si-duo-bicycle-accent si-duo-stroke si-duo-accent" style=""/>
+            <path d="M23,0 L27,26" id="Shape" stroke="rgb(56, 132, 152)" class="si-duo-bicycle-main si-duo-bicycle-stroke si-duo-bicycle-accent si-duo-stroke si-duo-accent" style=""/>
+            <path d="M20,0 L28,0" id="Shape" stroke="#78ae42" class="si-duo-bicycle-seat si-duo-bicycle-stroke si-duo-bicycle-base si-duo-stroke si-duo-base" style=""/>
+        </g>
+    </g>
+
+</symbol>
+<symbol id="duo-button-dot" viewBox="0 0 62 62">
+    <!-- Generator: Sketch 3.0.3 (7891) - http://www.bohemiancoding.com/sketch -->
+    <title class="">Button-dot</title>
+    
+    <defs class=""/>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" class="">
+        <g id="Button-dot" transform="translate(1.000000, 1.000000)" stroke-width="2" class="">
+            <g id="Page-1" class="">
+                <g id="Button-dot" class="">
+                    <circle id="Oval_3_" stroke="#78ae42" cx="30" cy="30" r="30" class="si-duo-button-dot-circle si-duo-button-dot-stroke si-duo-button-dot-base si-duo-stroke si-duo-base" style=""/>
+                    <circle id="Oval" stroke="#78ae42" cx="17" cy="30" r="4" class="si-duo-button-dot-dot-left si-duo-button-dot-dot si-duo-button-dot-stroke si-duo-button-dot-base si-duo-stroke si-duo-base" style=""/>
+                    <circle id="Oval_1_" stroke="#78ae42" cx="30" cy="30" r="4" class="si-duo-button-dot-dot-middle si-duo-button-dot-dot si-duo-button-dot-stroke si-duo-button-dot-base si-duo-stroke si-duo-base" style=""/>
+                    <circle id="Oval_2_" stroke="#78ae42" cx="43" cy="30" r="4" class="si-duo-button-dot-dot-right si-duo-button-dot-dot si-duo-button-dot-stroke si-duo-button-dot-base si-duo-stroke si-duo-base" style=""/>
+                </g>
+            </g>
+        </g>
+    </g>
+
+</symbol></svg>

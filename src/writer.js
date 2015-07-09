@@ -1,4 +1,5 @@
-import {* as fs} from 'fs';
+import {default as fs} from 'fs';
+import {Promise} from "es6-promise";
 
 let writeToFile = function (destPath, content) {
     return new Promise(function (res, rej) {
@@ -18,8 +19,11 @@ let getSpriteXml = function (svgs) {
         svgs.map(function (s) {
             return '<symbol' + 
                 (s.id ? (' id="' + s.id + '"') : '') +
-                (s.viewBox ? (' viewBox="' + s.id + '"') : '') +
-                '>';
+                (s.viewBox ? (' viewBox="' + s.viewBox + '"') : '') +
+                '>'
+                + s.content
+                + "\n"
+                + '</symbol>';
         }).join("\n") + '</svg>';
 };
 

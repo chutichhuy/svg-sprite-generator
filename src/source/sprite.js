@@ -1,7 +1,8 @@
-import {* as fs} from "fs";
-import {* as cheerio} from "cheerio";
-import {* as u} from "../util";
+import {default as fs} from "fs";
+import * as cheerio from "cheerio";
+import * as u from "../util";
 import {default as parse} from "../parser";
+import {Promise} from "es6-promise";
 
 export default function (file) {
     return new Promise(function (res, rej) {

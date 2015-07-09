@@ -1,5 +1,5 @@
-import {* as cheerio} from 'cheerio';
-
+import {default as cheerio} from 'cheerio';
+import {default as fs} from "fs";
 /*
  * Transform an array of SVG content to an array of objects those are
  * ready for sprite generation
@@ -9,14 +9,14 @@ import {* as cheerio} from 'cheerio';
  */
 export default function (svgs) {
     return svgs.map(function (s) {
-        let svgTag = cheerio.load('<section>' + s[1] + '</section>', {
+        let svgTag = cheerio.load('<div>' + s.content + '</div>', {
             xmlMode: true
-        }).find('svg');
+        })("svg");
 
         return (svgTag.length) ? {
             content: svgTag.html(),
             viewBox: svgTag.attr('viewBox'),
-            id: s[0] ? s[0] : (svgTag.attr('id') ? svgTag.attr('id') : undefined)
+            id: s.id ? s.id : (svgTag.attr('id') ? svgTag.attr('id') : undefined)
         } : undefined;
     });
 };

@@ -1,0 +1,23 @@
+<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
+<svg width="64px" height="55px" viewBox="0 0 64 55" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="si-duo-movie-projector">
+    <!-- Generator: Sketch 3.0.3 (7891) - http://www.bohemiancoding.com/sketch -->
+    <title class="">Movie-projector</title>
+    
+    <defs class=""></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" class="">
+        <g id="Movie-projector" transform="translate(1.000000, 1.000000)" stroke-width="2" class="">
+            <g id="Page-1" class="">
+                <g id="Movie-projector" class="">
+                    <path d="M27,19 L34,19" id="Shape" stroke="#78ae42" class="si-duo-movie-projector-main si-duo-movie-projector-stroke si-duo-movie-projector-base si-duo-stroke si-duo-base" style=""></path>
+                    <path d="M62,46 L52,42 L52,32 L62,28 L62,46 L62,46 Z" id="Shape_2_" stroke="#78ae42" class="si-duo-movie-projector-lens si-duo-movie-projector-stroke si-duo-movie-projector-base si-duo-stroke si-duo-base" style=""></path>
+                    <path d="M48,19 L52,19 L52,53 L0,53 L0,19 L6,19" id="Shape_1_" stroke="#78ae42" class="si-duo-movie-projector-main si-duo-movie-projector-stroke si-duo-movie-projector-base si-duo-stroke si-duo-base" style=""></path>
+                    <circle id="Oval" stroke="rgb(56, 132, 152)" cx="16.5" cy="12.5" r="12.5" class="si-duo-movie-projector-reel si-duo-movie-projector-stroke si-duo-movie-projector-accent si-duo-stroke si-duo-accent" style=""></circle>
+                    <circle id="Oval_1_" stroke="rgb(56, 132, 152)" cx="40.5" cy="16.5" r="7.5" class="si-duo-movie-projector-reel si-duo-movie-projector-stroke si-duo-movie-projector-accent si-duo-stroke si-duo-accent" style=""></circle>
+                    <path d="M47,49 L44,49" id="Shape_3_" stroke="rgb(56, 132, 152)" class="si-duo-movie-projector-button si-duo-movie-projector-stroke si-duo-movie-projector-accent si-duo-stroke si-duo-accent" style=""></path>
+                    <path d="M41,49 L38,49" id="Shape_4_" stroke="rgb(56, 132, 152)" class="si-duo-movie-projector-button si-duo-movie-projector-stroke si-duo-movie-projector-accent si-duo-stroke si-duo-accent" style=""></path>
+                    <path d="M8,30 L43,30" id="Shape_5_" stroke="#78ae42" class="si-duo-movie-projector-line si-duo-movie-projector-stroke si-duo-movie-projector-base si-duo-stroke si-duo-base" style=""></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

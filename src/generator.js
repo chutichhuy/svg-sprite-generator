@@ -1,35 +1,38 @@
-import {default as writer} from "./writer";
+import * as writer from "./writer";
 import {default as srcArray} from "./source/array";
 import {default as srcCsv} from "./source/csv";
 import {default as srcFolder} from "./source/folder";
+import {default as srcSprite} from "./source/sprite";
 
-import {* as program} from "commander";
-import {* as async} from "async";
+import {default as program} from "commander";
+import {default as async} from "async";
 
 export default function () {
-    program.version("0.0.1")
-        .usage("gen -l <csv file> -d <directory> -o <ouput to file>")
-        .option("-c, --csv", "CSV file path")
-        .option("-d, --directory", "SVG folder")
-        .option("-l, --list", "List of files")
+    program
+        .version("0.0.1")
+        .option("-c --csv <csv>", "CSV file path")
+        .option("-d --directory <directory>", "SVG folder")
+        .option("-l --list <list>", "List of files")
+        .option("-o --output <output>", "Out put to file")
         .parse(process.argv);
 
-
-    let fnList = ["file", "csv", "folder", "list"].filter(function (i) {
+    let fnList = ["sprite", "csv", "directory", "list"].filter(function (i) {
         return !!program[i];
     }).map(function (i) {
         switch (i) {
-            case "file":
-                return srcFile(program.file);
+            case "sprite":
+                return srcSprite(program.sprite);
             case "csv":
                 return srcCsv(program.csv);
-            case "folder":
+            case "directory":
                 return srcFolder(program.directory);
             case "list":
-                return srcArray(proram.list);
+                return srcArray(program.list.split(",").map(function (i) {
+                    return i.trim();
+                }));
         }
     });
-    
+   
     // process them all
     async.map(fnList, function (fn, callback) {
         fn().then(function (objects) {
@@ -38,14 +41,22 @@ export default function () {
             callback(true, error);
         });
     }, function (err, results) {
-        results.reduce(function (prev, curr) {
-            return prev.concat(curr);
-        }).then(function (svgs) {
-            if (program.output) {
-                writer.toFile(program.output, svgs); 
-            } else {
-                writer.toConsole(svgs);
-            }
-        }); 
+        if (results.length == 0) {
+            return;
+        }
+
+        let svgs = results.reduce(function (prev, curr) {
+            return prev.reduce(function (p, c) {
+                return p.concat(c);
+            }).concat(curr.reduce(function(p, c) {
+                return p.concat(c);
+            }));
+        });
+
+        if (program.output) {
+            writer.writeToFile(program.output, svgs); 
+        } else {
+            writer.writeToConsole(svgs);
+        }
     });
 };

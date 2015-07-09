@@ -1,4 +1,6 @@
-import {* as "u"} from "../util";
+import * as u from "../util";
+import {default as parse} from "../parser";
+import {Promise} from "es6-promise";
 
 export default function (list) {
     return function () {
@@ -7,8 +9,7 @@ export default function (list) {
             
             list.forEach(function (item) {
                 q.push((typeof item === "object") ? item : {
-                    file: item,
-                    id: u.idFromFileName(item)
+                    file: item
                 });
             });
         }).then(parse);

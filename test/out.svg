@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg">
+<symbol id="duo-alarm-clock" viewBox="0 0 56 64">
+    <!-- Generator: Sketch 3.0.3 (7891) - http://www.bohemiancoding.com/sketch -->
+    <title class="">Alarm-clock</title>
+    
+    <defs class=""/>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" class="">
+        <g id="Alarm-clock" transform="translate(1.000000, 1.000000)" stroke-width="2" class="">
+            <g id="Page-1" class="">
+                <g id="Alarm-clock" class="">
+                    <path d="M12,52 L4,62" id="Shape_3_" stroke="#78ae42" class="si-duo-alarm-clock-stand si-duo-alarm-clock-stroke si-duo-alarm-clock-base si-duo-stroke si-duo-base" style=""/>
+                    <path d="M42,52 L50,62" id="Shape_4_" stroke="#78ae42" class="si-duo-alarm-clock-stand si-duo-alarm-clock-stroke si-duo-alarm-clock-base si-duo-stroke si-duo-base" style=""/>
+                    <circle id="Oval" stroke="#78ae42" cx="27" cy="31" r="27" class="si-duo-alarm-clock-main si-duo-alarm-clock-stroke si-duo-alarm-clock-base si-duo-stroke si-duo-base" style=""/>
+                    <path d="M26,31 L42.8,31" id="Shape_5_" stroke="rgb(56, 132, 152)" class="si-duo-alarm-clock-hour-hand si-duo-alarm-clock-stroke si-duo-alarm-clock-accent si-duo-stroke si-duo-accent" style=""/>
+                    <path d="M27,12 L27,31" id="Shape_6_" stroke="rgb(56, 132, 152)" class="si-duo-alarm-clock-minute-hand si-duo-alarm-clock-stroke si-duo-alarm-clock-accent si-duo-stroke si-duo-accent" style=""/>
+                    <path d="M2.9,13 C2.3,11.8 2,10.4 2,9 C2,4 6,0 11,0 C13.3,0 15.4,0.9 17,2.3" id="Shape_1_" stroke="#78ae42" class="si-duo-alarm-clock-bell si-duo-alarm-clock-stroke si-duo-alarm-clock-base si-duo-stroke si-duo-base" style=""/>
+                    <path d="M51.1,13 C51.7,11.8 52,10.4 52,9 C52,4 48,0 43,0 C40.7,0 38.6,0.9 37,2.3" id="Shape_2_" stroke="#78ae42" class="si-duo-alarm-clock-bell si-duo-alarm-clock-stroke si-duo-alarm-clock-base si-duo-stroke si-duo-base" style=""/>
+                </g>
+            </g>
+        </g>
+    </g>
+
+</symbol>
+<symbol id="duo-bicycle" viewBox="0 0 62 36">
+    <!-- Generator: Sketch 3.0.3 (7891) - http://www.bohemiancoding.com/sketch -->
+    <title class="">Bicycle</title>
+    
+    <defs class=""/>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" class="">
+        <g id="Bicycle" transform="translate(1.000000, 1.000000)" stroke-width="2" class="">
+            <circle id="Oval" stroke="#78ae42" cx="11" cy="23" r="11" class="si-duo-bicycle-wheel si-duo-bicycle-stroke si-duo-bicycle-base si-duo-stroke si-duo-base" style=""/>
+            <circle id="Oval" stroke="#78ae42" cx="49" cy="23" r="11" class="si-duo-bicycle-wheel si-duo-bicycle-stroke si-duo-bicycle-base si-duo-stroke si-duo-base" style=""/>
+            <path d="M49,24 L45,8 L45,2 L40,2" id="Shape" stroke="rgb(56, 132, 152)" class="si-duo-bicycle-main si-duo-bicycle-stroke si-duo-bicycle-accent si-duo-stroke si-duo-accent" style=""/>
+            <path d="M45,8 L25,8 L11,23 L27,26 L45,8" id="Shape" stroke="rgb(56, 132, 152)" class="si-duo-bicycle-main si-duo-bicycle-stroke si-duo-bicycle-accent si-duo-stroke si-duo-accent" style=""/>
+            <path d="M23,0 L27,26" id="Shape" stroke="rgb(56, 132, 152)" class="si-duo-bicycle-main si-duo-bicycle-stroke si-duo-bicycle-accent si-duo-stroke si-duo-accent" style=""/>
+            <path d="M20,0 L28,0" id="Shape" stroke="#78ae42" class="si-duo-bicycle-seat si-duo-bicycle-stroke si-duo-bicycle-base si-duo-stroke si-duo-base" style=""/>
+        </g>
+    </g>
+
+</symbol>
+<symbol id="duo-button-dot" viewBox="0 0 62 62">
+    <!-- Generator: Sketch 3.0.3 (7891) - http://www.bohemiancoding.com/sketch -->
+    <title class="">Button-dot</title>
+    
+    <defs class=""/>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" class="">
+        <g id="Button-dot" transform="translate(1.000000, 1.000000)" stroke-width="2" class="">
+            <g id="Page-1" class="">
+                <g id="Button-dot" class="">
+                    <circle id="Oval_3_" stroke="#78ae42" cx="30" cy="30" r="30" class="si-duo-button-dot-circle si-duo-button-dot-stroke si-duo-button-dot-base si-duo-stroke si-duo-base" style=""/>
+                    <circle id="Oval" stroke="#78ae42" cx="17" cy="30" r="4" class="si-duo-button-dot-dot-left si-duo-button-dot-dot si-duo-button-dot-stroke si-duo-button-dot-base si-duo-stroke si-duo-base" style=""/>
+                    <circle id="Oval_1_" stroke="#78ae42" cx="30" cy="30" r="4" class="si-duo-button-dot-dot-middle si-duo-button-dot-dot si-duo-button-dot-stroke si-duo-button-dot-base si-duo-stroke si-duo-base" style=""/>
+                    <circle id="Oval_2_" stroke="#78ae42" cx="43" cy="30" r="4" class="si-duo-button-dot-dot-right si-duo-button-dot-dot si-duo-button-dot-stroke si-duo-button-dot-base si-duo-stroke si-duo-base" style=""/>
+                </g>
+            </g>
+        </g>
+    </g>
+
+</symbol>
+<symbol id="duo-circle-gear" viewBox="0 0 64 64">
+    <!-- Generator: Sketch 3.0.3 (7891) - http://www.bohemiancoding.com/sketch -->
+    <title class="">Circle-gear</title>
+    
+    <defs class=""/>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" class="">
+        <g id="Circle-gear" transform="translate(1.000000, 1.000000)" stroke-width="2" class="">
+            <g id="Page-1" class="">
+                <g id="Circle-gear" class="">
+                    <circle id="Oval" stroke="#78ae42" cx="31" cy="31" r="31" class="si-duo-circle-gear-circle si-duo-circle-gear-stroke si-duo-circle-gear-base si-duo-stroke si-duo-base" style=""/>
+                    <path d="M46,34 L46,28 L42.6,28 C42.3,26.9 41.9,25.9 41.3,24.9 L43.7,22.5 L39.5,18.3 L37.1,20.7 C36.1,20.1 35.1,19.7 34,19.4 L34,16 L28,16 L28,19.4 C26.9,19.7 25.9,20.1 24.9,20.7 L22.5,18.3 L18.3,22.5 L20.7,24.9 C20.1,25.9 19.7,26.9 19.4,28 L16,28 L16,34 L19.4,34 C19.7,35.1 20.1,36.1 20.7,37.1 L18.3,39.5 L22.5,43.7 L24.9,41.3 C25.9,41.9 26.9,42.3 28,42.6 L28,46 L34,46 L34,42.6 C35.1,42.3 36.1,41.9 37.1,41.3 L39.5,43.7 L43.7,39.5 L41.3,37.1 C41.9,36.1 42.3,35.1 42.6,34 L46,34 L46,34 Z" id="Shape" stroke="#78ae42" class="si-duo-circle-gear-gear si-duo-circle-gear-stroke si-duo-circle-gear-base si-duo-stroke si-duo-base" style=""/>
+                    <circle id="Oval_1_" stroke="rgb(56, 132, 152)" cx="31" cy="31" r="4" class="si-duo-circle-gear-gear-circle si-duo-circle-gear-gear si-duo-circle-gear-stroke si-duo-circle-gear-accent si-duo-stroke si-duo-accent" style=""/>
+                </g>
+            </g>
+        </g>
+    </g>
+
+</symbol>
+<symbol id="duo-clapboard" viewBox="0 0 64 56">
+    <!-- Generator: Sketch 3.0.3 (7891) - http://www.bohemiancoding.com/sketch -->
+    <title class="">Clapboard</title>
+    
+    <defs class=""/>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" class="">
+        <g id="Clapboard" transform="translate(1.000000, 1.000000)" stroke-width="2" class="">
+            <g id="Page-1" class="">
+                <g id="Clapboard" class="">
+                    <rect id="Rectangle-path" stroke="#78ae42" x="0" y="16" width="62" height="38" class="si-duo-clapboard-main si-duo-clapboard-stroke si-duo-clapboard-base si-duo-stroke si-duo-base" style=""/>
+                    <path d="M13,16 L0,16 L0,0 L9,0 L13,16 L13,16 Z" id="Shape" stroke="#78ae42" class="si-duo-clapboard-hinge si-duo-clapboard-stroke si-duo-clapboard-base si-duo-stroke si-duo-base" style=""/>
+                    <path d="M13,29 L45,29" id="Shape_2_" stroke="rgb(56, 132, 152)" class="si-duo-clapboard-line2 si-duo-clapboard-line si-duo-clapboard-stroke si-duo-clapboard-accent si-duo-stroke si-duo-accent" style=""/>
+                    <path d="M13,37 L36,37" id="Shape_3_" stroke="#78ae42" class="si-duo-clapboard-line3 si-duo-clapboard-line si-duo-clapboard-stroke si-duo-clapboard-base si-duo-stroke si-duo-base" style=""/>
+                    <path d="M13,45 L45,45" id="Shape_4_" stroke="rgb(56, 132, 152)" class="si-duo-clapboard-line4 si-duo-clapboard-line si-duo-clapboard-stroke si-duo-clapboard-accent si-duo-stroke si-duo-accent" style=""/>
+                    <path d="M9,0 L62,0 L62,16 L13,16 L9,0 L9,0 Z" id="Shape_5_" stroke="#78ae42" class="si-duo-clapboard-hand si-duo-clapboard-stroke si-duo-clapboard-base si-duo-stroke si-duo-base" style=""/>
+                    <path d="M10.8,8 L62,8" id="Shape" stroke="#78ae42" class="si-duo-clapboard-line1 si-duo-clapboard-line si-duo-clapboard-stroke si-duo-clapboard-base si-duo-stroke si-duo-base" style=""/>
+                    <circle id="Oval" stroke="rgb(56, 132, 152)" cx="5" cy="5" r="1" class="si-duo-clapboard-circle si-duo-clapboard-stroke si-duo-clapboard-accent si-duo-stroke si-duo-accent" style=""/>
+                    <path d="M15.5,0 L21.2,8.1 L15.5,16" id="Shape_6_" stroke="#78ae42" class="si-duo-clapboard-arrow si-duo-clapboard-stroke si-duo-clapboard-base si-duo-stroke si-duo-base" style=""/>
+                    <path d="M27.9,0 L33.6,8.1 L27.9,16" id="Shape_7_" stroke="#78ae42" class="si-duo-clapboard-arrow si-duo-clapboard-stroke si-duo-clapboard-base si-duo-stroke si-duo-base" style=""/>
+                    <path d="M40.4,0 L46.1,8.1 L40.4,16" id="Shape_8_" stroke="#78ae42" class="si-duo-clapboard-arrow si-duo-clapboard-stroke si-duo-clapboard-base si-duo-stroke si-duo-base" style=""/>
+                    <path d="M52.9,0 L58.6,8.1 L52.9,16" id="Shape_9_" stroke="#78ae42" class="si-duo-clapboard-arrow si-duo-clapboard-stroke si-duo-clapboard-base si-duo-stroke si-duo-base" style=""/>
+                </g>
+            </g>
+        </g>
+    </g>
+
+</symbol>
+<symbol id="duo-flower" viewBox="0 0 16 16">
+    <!-- Generator: Sketch 3.0.3 (7891) - http://www.bohemiancoding.com/sketch -->
+    <title>1056</title>
+    
+    <defs/>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M15.164,8.404 C14.993,8.31 14.642,8.167 14.182,8.001 C14.642,7.835 14.992,7.693 15.163,7.599 C16.179,7.05 16.284,5.439 15.398,4.001 C14.511,2.564 12.969,1.844 11.954,2.392 C11.781,2.487 11.474,2.698 11.089,2.989 C11.167,2.531 11.208,2.175 11.208,1.989 C11.208,0.889 9.771,-0.000999999989 8,-0.000999999989 C6.229,-0.000999999989 4.79,0.889 4.79,1.989 C4.79,2.175 4.833,2.53 4.911,2.987 C4.526,2.696 4.22,2.485 4.048,2.391 C3.032,1.842 1.488,2.562 0.603,4 C-0.282,5.437 -0.176,7.048 0.838,7.597 C1.011,7.692 1.36,7.835 1.823,8.001 C1.36,8.168 1.009,8.311 0.837,8.405 C-0.179,8.954 -0.284,10.563 0.602,12.002 C1.488,13.439 3.031,14.159 4.046,13.61 C4.219,13.517 4.525,13.306 4.911,13.015 C4.833,13.472 4.79,13.825 4.79,14.012 C4.79,15.111 6.226,16.001 8,16.001 C9.771,16.001 11.208,15.111 11.208,14.012 C11.208,13.825 11.167,13.47 11.089,13.011 C11.474,13.304 11.782,13.516 11.955,13.609 C12.971,14.158 14.513,13.439 15.398,12.002 C16.285,10.563 16.179,8.953 15.164,8.404 L15.164,8.404 Z M8,11.047 C6.315,11.047 4.951,9.683 4.951,8.001 C4.951,6.319 6.315,4.955 8,4.955 C9.683,4.955 11.049,6.319 11.049,8.001 C11.048,9.683 9.682,11.047 8,11.047 L8,11.047 Z" fill="#434343" class="si-glyph-fill"/>
+    </g>
+
+</symbol>
+<symbol id="duo-gear" viewBox="0 0 64 64">
+    <!-- Generator: Sketch 3.0.3 (7891) - http://www.bohemiancoding.com/sketch -->
+    <title class="">Gear</title>
+    
+    <defs class=""/>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" class="">
+        <g id="Gear" transform="translate(1.000000, 1.000000)" stroke-width="2" class="">
+            <g id="Page-1" class="">
+                <g id="Gear" class="">
+                    <path d="M62,36 L62,26 L55.5,26 C54.9,22.8 53.6,19.8 51.9,17.2 L56.5,12.6 L49.4,5.5 L44.8,10.1 C42.2,8.4 39.2,7.1 36,6.5 L36,0 L26,0 L26,6.5 C22.8,7.1 19.8,8.4 17.2,10.1 L12.6,5.5 L5.5,12.6 L10.1,17.2 C8.4,19.8 7.1,22.8 6.5,26 L0,26 L0,36 L6.5,36 C7.1,39.2 8.4,42.2 10.1,44.8 L5.5,49.4 L12.6,56.5 L17.2,51.9 C19.8,53.6 22.8,54.9 26,55.5 L26,62 L36,62 L36,55.5 C39.2,54.9 42.2,53.6 44.8,51.9 L49.4,56.5 L56.5,49.4 L51.9,44.8 C53.6,42.2 54.9,39.2 55.5,36 L62,36 L62,36 Z" id="Shape" stroke="#78ae42" class="si-duo-gear-main si-duo-gear-stroke si-duo-gear-base si-duo-stroke si-duo-base" style=""/>
+                    <circle id="Oval" stroke="rgb(56, 132, 152)" cx="31" cy="31" r="9" class="si-duo-gear-circle si-duo-gear-stroke si-duo-gear-accent si-duo-stroke si-duo-accent" style=""/>
+                </g>
+            </g>
+        </g>
+    </g>
+
+</symbol>
+<symbol id="duo-keyboard" viewBox="0 0 64 27">
+    <!-- Generator: Sketch 3.0.3 (7891) - http://www.bohemiancoding.com/sketch -->
+    <title class="">Keyboard</title>
+    
+    <defs class=""/>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" class="">
+        <g id="Keyboard" transform="translate(1.000000, 1.000000)" stroke-width="2" class="">
+            <rect id="Rectangle-path" stroke="#78ae42" x="0" y="0" width="62" height="25" class="si-duo-keyboard-board si-duo-keyboard-stroke si-duo-keyboard-base si-duo-stroke si-duo-base" style=""/>
+            <path d="M21,20 L43,20" id="Shape" stroke="rgb(56, 132, 152)" class="si-duo-keyboard-keyboard si-duo-keyboard-stroke si-duo-keyboard-accent si-duo-stroke si-duo-accent" style=""/>
+            <path d="M4,5 L10,5" id="Shape" stroke="#78ae42" class="si-duo-keyboard-keyboard si-duo-keyboard-stroke si-duo-keyboard-base si-duo-stroke si-duo-base" style=""/>
+            <path d="M12,5 L18,5" id="Shape" stroke="#78ae42" class="si-duo-keyboard-keyboard si-duo-keyboard-stroke si-duo-keyboard-base si-duo-stroke si-duo-base" style=""/>
+            <path d="M20,5 L26,5" id="Shape" stroke="#78ae42" class="si-duo-keyboard-keyboard si-duo-keyboard-stroke si-duo-keyboard-base si-duo-stroke si-duo-base" style=""/>
+            <path d="M28,5 L34,5" id="Shape" stroke="#78ae42" class="si-duo-keyboard-keyboard si-duo-keyboard-stroke si-duo-keyboard-base si-duo-stroke si-duo-base" style=""/>
+            <path d="M36,5 L42,5" id="Shape" stroke="#78ae42" class="si-duo-keyboard-keyboard si-duo-keyboard-stroke si-duo-keyboard-base si-duo-stroke si-duo-base" style=""/>
+            <path d="M44,5 L50,5" id="Shape" stroke="#78ae42" class="si-duo-keyboard-keyboard si-duo-keyboard-stroke si-duo-keyboard-base si-duo-stroke si-duo-base" style=""/>
+            <path d="M52,5 L58,5" id="Shape" stroke="#78ae42" class="si-duo-keyboard-keyboard si-duo-keyboard-stroke si-duo-keyboard-base si-duo-stroke si-duo-base" style=""/>
+            <path d="M6,15 L10,15" id="Shape" stroke="#78ae42" class="si-duo-keyboard-keyboard si-duo-keyboard-stroke si-duo-keyboard-base si-duo-stroke si-duo-base" style=""/>
+            <path d="M12,15 L18,15" id="Shape" stroke="#78ae42" class="si-duo-keyboard-keyboard si-duo-keyboard-stroke si-duo-keyboard-base si-duo-stroke si-duo-base" style=""/>
+            <path d="M20,15 L26,15" id="Shape" stroke="#78ae42" class="si-duo-keyboard-keyboard si-duo-keyboard-stroke si-duo-keyboard-base si-duo-stroke si-duo-base" style=""/>
+            <path d="M28,15 L34,15" id="Shape" stroke="#78ae42" class="si-duo-keyboard-keyboard si-duo-keyboard-stroke si-duo-keyboard-base si-duo-stroke si-duo-base" style=""/>
+            <path d="M36,15 L42,15" id="Shape" stroke="#78ae42" class="si-duo-keyboard-keyboard si-duo-keyboard-stroke si-duo-keyboard-base si-duo-stroke si-duo-base" style=""/>
+            <path d="M44,15 L50,15" id="Shape" stroke="#78ae42" class="si-duo-keyboard-keyboard si-duo-keyboard-stroke si-duo-keyboard-base si-duo-stroke si-duo-base" style=""/>
+            <path d="M52,15 L56,15" id="Shape" stroke="#78ae42" class="si-duo-keyboard-keyboard si-duo-keyboard-stroke si-duo-keyboard-base si-duo-stroke si-duo-base" style=""/>
+            <path d="M8,10 L14,10" id="Shape" stroke="#78ae42" class="si-duo-keyboard-keyboard si-duo-keyboard-stroke si-duo-keyboard-base si-duo-stroke si-duo-base" style=""/>
+            <path d="M16,10 L22,10" id="Shape" stroke="#78ae42" class="si-duo-keyboard-keyboard si-duo-keyboard-stroke si-duo-keyboard-base si-duo-stroke si-duo-base" style=""/>
+            <path d="M24,10 L30,10" id="Shape" stroke="#78ae42" class="si-duo-keyboard-keyboard si-duo-keyboard-stroke si-duo-keyboard-base si-duo-stroke si-duo-base" style=""/>
+            <path d="M32,10 L38,10" id="Shape" stroke="#78ae42" class="si-duo-keyboard-keyboard si-duo-keyboard-stroke si-duo-keyboard-base si-duo-stroke si-duo-base" style=""/>
+            <path d="M40,10 L46,10" id="Shape" stroke="#78ae42" class="si-duo-keyboard-keyboard si-duo-keyboard-stroke si-duo-keyboard-base si-duo-stroke si-duo-base" style=""/>
+            <path d="M48,10 L54,10" id="Shape" stroke="#78ae42" class="si-duo-keyboard-keyboard si-duo-keyboard-stroke si-duo-keyboard-base si-duo-stroke si-duo-base" style=""/>
+        </g>
+    </g>
+
+</symbol>
+<symbol id="duo-movie-projector" viewBox="0 0 64 55">
+    <!-- Generator: Sketch 3.0.3 (7891) - http://www.bohemiancoding.com/sketch -->
+    <title class="">Movie-projector</title>
+    
+    <defs class=""/>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" class="">
+        <g id="Movie-projector" transform="translate(1.000000, 1.000000)" stroke-width="2" class="">
+            <g id="Page-1" class="">
+                <g id="Movie-projector" class="">
+                    <path d="M27,19 L34,19" id="Shape" stroke="#78ae42" class="si-duo-movie-projector-main si-duo-movie-projector-stroke si-duo-movie-projector-base si-duo-stroke si-duo-base" style=""/>
+                    <path d="M62,46 L52,42 L52,32 L62,28 L62,46 L62,46 Z" id="Shape_2_" stroke="#78ae42" class="si-duo-movie-projector-lens si-duo-movie-projector-stroke si-duo-movie-projector-base si-duo-stroke si-duo-base" style=""/>
+                    <path d="M48,19 L52,19 L52,53 L0,53 L0,19 L6,19" id="Shape_1_" stroke="#78ae42" class="si-duo-movie-projector-main si-duo-movie-projector-stroke si-duo-movie-projector-base si-duo-stroke si-duo-base" style=""/>
+                    <circle id="Oval" stroke="rgb(56, 132, 152)" cx="16.5" cy="12.5" r="12.5" class="si-duo-movie-projector-reel si-duo-movie-projector-stroke si-duo-movie-projector-accent si-duo-stroke si-duo-accent" style=""/>
+                    <circle id="Oval_1_" stroke="rgb(56, 132, 152)" cx="40.5" cy="16.5" r="7.5" class="si-duo-movie-projector-reel si-duo-movie-projector-stroke si-duo-movie-projector-accent si-duo-stroke si-duo-accent" style=""/>
+                    <path d="M47,49 L44,49" id="Shape_3_" stroke="rgb(56, 132, 152)" class="si-duo-movie-projector-button si-duo-movie-projector-stroke si-duo-movie-projector-accent si-duo-stroke si-duo-accent" style=""/>
+                    <path d="M41,49 L38,49" id="Shape_4_" stroke="rgb(56, 132, 152)" class="si-duo-movie-projector-button si-duo-movie-projector-stroke si-duo-movie-projector-accent si-duo-stroke si-duo-accent" style=""/>
+                    <path d="M8,30 L43,30" id="Shape_5_" stroke="#78ae42" class="si-duo-movie-projector-line si-duo-movie-projector-stroke si-duo-movie-projector-base si-duo-stroke si-duo-base" style=""/>
+                </g>
+            </g>
+        </g>
+    </g>
+
+</symbol>
+<symbol id="duo-test-tube" viewBox="0 0 38 64">
+<title class="">Test-tube</title>
+
+<g id="Page-1" class="">
+	<g id="Test-tube" transform="translate(0.000000, 1.000000)" class="">
+		<g id="Group" class="">
+			<path id="Shape_1_" fill="none" stroke="#78ae42" stroke-width="2" d="M5,1v47c0,7.732,6.268,14,14,14s14-6.268,14-14V0" class="si-duo-test-tube-test-tube si-duo-test-tube-stroke si-duo-test-tube-base si-duo-stroke si-duo-base" style=""/>
+			<path id="Shape" fill="none" stroke="#78ae42" stroke-width="2" d="M0,0h38" class="si-duo-test-tube-test-tube si-duo-test-tube-stroke si-duo-test-tube-base si-duo-stroke si-duo-base" style=""/>
+			<path id="Shape_2_" fill="none" stroke="#78ae42" stroke-width="2" d="M5,20c0,0,6.667,6.667,15,0s13,0,13,0" class="si-duo-test-tube-wave-line si-duo-test-tube-stroke si-duo-test-tube-base si-duo-stroke si-duo-base" style=""/>
+		</g>
+		<circle id="Oval" fill="none" stroke="rgb(56, 132, 152)" stroke-width="2" cx="11" cy="49" r="2" class="si-duo-test-tube-circle si-duo-test-tube-stroke si-duo-test-tube-accent si-duo-stroke si-duo-accent" style="">
+		</circle>
+		<circle id="Oval_1_" fill="none" stroke="rgb(56, 132, 152)" stroke-width="2" cx="17" cy="32" r="4" class="si-duo-test-tube-circle si-duo-test-tube-stroke si-duo-test-tube-accent si-duo-stroke si-duo-accent" style="">
+		</circle>
+		<circle id="Oval_2_" fill="none" stroke="rgb(56, 132, 152)" stroke-width="2" cx="27" cy="42" r="3" class="si-duo-test-tube-circle si-duo-test-tube-stroke si-duo-test-tube-accent si-duo-stroke si-duo-accent" style="">
+		</circle>
+		<circle id="Oval_3_" fill="none" stroke="rgb(56, 132, 152)" stroke-width="2" cx="23" cy="11" r="2" class="si-duo-test-tube-circle si-duo-test-tube-stroke si-duo-test-tube-accent si-duo-stroke si-duo-accent" style="">
+		</circle>
+	</g>
+</g>
+
+</symbol>
+<symbol id="glyph-bicycle-man" viewBox="0 0 17 17"><title>1102</title><defs/><g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g transform="translate(1.000000, 2.000000)" fill="#434343"><path d="M8.5,12.969 C8.141,12.967 8.005,12.68 8.006,12.316 L8.021,9.532 L5.153,6.44 C4.934,6.151 4.99,5.737 5.274,5.515 L8.836,2.582 C8.972,2.477 9.147,2.428 9.316,2.451 C9.486,2.473 9.641,2.564 9.746,2.703 L11.29,4.508 L13.579,5.605 C13.914,5.735 14.083,6.116 13.956,6.457 C13.828,6.798 13.453,6.97 13.117,6.84 L10.656,5.677 C10.543,5.633 10.445,5.56 10.371,5.462 L9.111,4.033 L6.687,6.16 L8.878,8.698 C8.964,8.814 8.968,8.912 8.968,9.058 L8.985,12.312 C8.984,12.676 8.859,12.97 8.5,12.969 L8.5,12.969 L8.5,12.969 Z" class="si-glyph-fill"/><g transform="translate(0.000000, 8.000000)"><path d="M12.98,-0.018 C11.335,-0.018 10.003,1.326 10.003,2.983 C10.003,4.64 11.335,5.984 12.98,5.984 C14.625,5.984 15.958,4.64 15.958,2.983 C15.958,1.326 14.625,-0.018 12.98,-0.018 L12.98,-0.018 Z M12.975,5.046 C11.83,5.046 10.903,4.123 10.903,2.984 C10.903,1.845 11.831,0.922 12.975,0.922 C14.116,0.922 15.044,1.845 15.044,2.984 C15.044,4.123 14.115,5.046 12.975,5.046 L12.975,5.046 Z" class="si-glyph-fill"/><path d="M2.991,0.023 C1.349,0.023 0.02,1.353 0.02,2.994 C0.02,4.636 1.349,5.965 2.991,5.965 C4.631,5.965 5.962,4.636 5.962,2.994 C5.962,1.354 4.631,0.023 2.991,0.023 L2.991,0.023 Z M2.991,5.063 C1.847,5.063 0.922,4.137 0.922,2.994 C0.922,1.851 1.848,0.925 2.991,0.925 C4.133,0.925 5.06,1.851 5.06,2.994 C5.06,4.137 4.133,5.063 2.991,5.063 L2.991,5.063 Z" class="si-glyph-fill"/></g><ellipse cx="11.469" cy="1.486" rx="1.469" ry="1.486" class="si-glyph-fill"/></g></g>
+</symbol>
+<symbol id="harmony-button-chart" viewBox="0 0 64 64"><title class="">Button-chart</title><g class=""><g transform="translate(1.000000, 1.000000)" class=""><circle fill-opacity="1" fill="#18d747" stroke="rgb(211, 139, 86)" stroke-width="2" cx="30.979" cy="30.979" r="30.979" class="si-harmony-button-chart-circle si-harmony-button-chart-thick si-harmony-button-chart-thick-stroke si-harmony-button-chart-stroke si-harmony-stroke si-harmony-thick-stroke si-harmony-main si-harmony-main-fill si-harmony-fill"/><path fill="none" stroke="#f3d4bd" d="M1.953,42.915L9,39l8,4l8-9l7,6l9-12l10,5
+			l7.859-13.574" class="si-harmony-button-chart-chart-line si-harmony-button-chart-thin si-harmony-button-chart-thin-stroke si-harmony-button-chart-stroke si-harmony-stroke si-harmony-thin-stroke"/><circle fill="#efb890" cx="41" cy="28" r="5" class="si-harmony-button-chart-circle si-harmony-button-chart-fill si-harmony-fill si-harmony-inner-fill"/></g></g>
+</symbol>
+<symbol id="harmony-clapboard" viewBox="0 0 64 56"><title class="">Clapboard</title><g class=""><g transform="translate(1.000000, 1.000000)" class=""><rect fill-opacity="1" fill="rgb(195, 73, 73)" stroke="rgb(58, 108, 209)" stroke-width="3" width="62" height="54" class="si-harmony-clapboard-main si-harmony-clapboard-thick si-harmony-clapboard-thick-stroke si-harmony-clapboard-stroke si-harmony-stroke si-harmony-thick-stroke si-harmony-main si-harmony-main-fill si-harmony-fill"/><path stroke-width="3" fill="none" stroke="#f3d4bd" d="M13,28.583h32" class="si-harmony-clapboard-text si-harmony-clapboard-thin si-harmony-clapboard-thin-stroke si-harmony-clapboard-stroke si-harmony-stroke si-harmony-thin-stroke"/><path stroke-width="3" fill="none" stroke="#f3d4bd" d="M0.083,14.583H62" class="si-harmony-clapboard-hand si-harmony-clapboard-thin si-harmony-clapboard-thin-stroke si-harmony-clapboard-stroke si-harmony-stroke si-harmony-thin-stroke"/><path stroke-width="3" fill="none" stroke="#f3d4bd" d="M13,36.5h23" class="si-harmony-clapboard-text si-harmony-clapboard-thin si-harmony-clapboard-thin-stroke si-harmony-clapboard-stroke si-harmony-stroke si-harmony-thin-stroke"/><path stroke-width="3" fill="none" stroke="#f3d4bd" d="M13,44.416h32" class="si-harmony-clapboard-text si-harmony-clapboard-thin si-harmony-clapboard-thin-stroke si-harmony-clapboard-stroke si-harmony-stroke si-harmony-thin-stroke"/><circle fill="none" stroke="rgb(211, 139, 86)" stroke-width="3" cx="5" cy="5" r="1" class="si-harmony-clapboard-screw si-harmony-thick si-harmony-thick-stroke si-harmony-screw-thick si-harmony-screw-stroke si-harmony-stroke"/><path stroke-width="3" fill="none" stroke="#f3d4bd" d="M17.583,0l5,7.6l-5,6.65" class="si-harmony-clapboard-arrow si-harmony-clapboard-thin si-harmony-clapboard-thin-stroke si-harmony-clapboard-stroke si-harmony-stroke si-harmony-thin-stroke"/><path stroke-width="3" fill="none" stroke="#f3d4bd" d="M28.583,0l5,7.6l-5,6.65" class="si-harmony-clapboard-arrow si-harmony-clapboard-thin si-harmony-clapboard-thin-stroke si-harmony-clapboard-stroke si-harmony-stroke si-harmony-thin-stroke"/><path stroke-width="3" fill="none" stroke="#f3d4bd" d="M39.583,0l5,7.6l-5,6.65" class="si-harmony-clapboard-arrow si-harmony-clapboard-thin si-harmony-clapboard-thin-stroke si-harmony-clapboard-stroke si-harmony-stroke si-harmony-thin-stroke"/><path stroke-width="3" fill="none" stroke="#f3d4bd" d="M50.583,0l5,7.6l-5,6.65" class="si-harmony-clapboard-arrow si-harmony-clapboard-thin si-harmony-clapboard-thin-stroke si-harmony-clapboard-stroke si-harmony-stroke si-harmony-thin-stroke"/><path stroke-width="3" fill="none" stroke="#f3d4bd" d="M11.667,7.5h50.166" class="si-harmony-clapboard-hand si-harmony-clapboard-thin si-harmony-clapboard-thin-stroke si-harmony-clapboard-stroke si-harmony-stroke si-harmony-thin-stroke"/><path stroke-width="3" fill="none" stroke="#f3d4bd" d="M9.167,0.083l4.333,14.5" class="si-harmony-clapboard-hand si-harmony-clapboard-thin si-harmony-clapboard-thin-stroke si-harmony-clapboard-stroke si-harmony-stroke si-harmony-thin-stroke"/></g></g>
+</symbol>
+<symbol id="harmony-game-boy" viewBox="0 0 46 64"><title class="">Game-boy</title><defs class=""/><g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" class=""><g transform="translate(1.000000, 1.000000)" class=""><path fill-opacity="1" fill="#18d747" d="M44,60 C44,61.104 43.104,62 42,62 L2,62 C0.896,62 0,61.104 0,60 L0,2 C0,0.896 0.896,0 2,0 L42,0 C43.104,0 44,0.896 44,2 L44,60 L44,60 Z" stroke="rgb(211, 139, 86)" stroke-width="1" class="si-harmony-game-boy-main si-harmony-game-boy-thick si-harmony-game-boy-thick-stroke si-harmony-game-boy-stroke si-harmony-stroke si-harmony-thick-stroke si-harmony-main si-harmony-main-fill si-harmony-fill"/><path stroke-width="1" d="M38.5,33.375 C38.5,34.514 37.576,35.437 36.438,35.437 L7.563,35.437 C6.424,35.437 5.501,34.513 5.501,33.375 L5.501,8.625 C5.501,7.486 6.425,6.563 7.563,6.563 L36.438,6.563 C37.577,6.563 38.5,7.487 38.5,8.625 L38.5,33.375 L38.5,33.375 Z" stroke="#f3d4bd" class="si-harmony-game-boy-screen si-harmony-game-boy-thin si-harmony-game-boy-thin-stroke si-harmony-game-boy-stroke si-harmony-stroke si-harmony-thin-stroke"/><path stroke-width="1" d="M11.5,42.031 L11.5,50.906" stroke="#f3d4bd" class="si-harmony-game-boy-control-pad si-harmony-game-boy-thin si-harmony-game-boy-thin-stroke si-harmony-game-boy-stroke si-harmony-stroke si-harmony-thin-stroke"/><path stroke-width="1" d="M7.062,46.469 L15.938,46.469" stroke="#f3d4bd" class="si-harmony-game-boy-control-pad si-harmony-game-boy-thin si-harmony-game-boy-thin-stroke si-harmony-game-boy-stroke si-harmony-stroke si-harmony-thin-stroke"/><circle fill="#efb890" cx="34.958" cy="44.958" r="3.958" class="si-harmony-game-boy-button-switch si-harmony-game-boy-fill si-harmony-fill si-harmony-inner-fill"/><circle fill="#efb890" cx="27.979" cy="52.979" r="3.979" class="si-harmony-game-boy-button-switch si-harmony-game-boy-fill si-harmony-fill si-harmony-inner-fill"/></g></g>
+</symbol></svg>

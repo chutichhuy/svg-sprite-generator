@@ -1,0 +1,18 @@
+<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="si-duo-circle-gear">
+    <!-- Generator: Sketch 3.0.3 (7891) - http://www.bohemiancoding.com/sketch -->
+    <title class="">Circle-gear</title>
+    
+    <defs class=""></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" class="">
+        <g id="Circle-gear" transform="translate(1.000000, 1.000000)" stroke-width="2" class="">
+            <g id="Page-1" class="">
+                <g id="Circle-gear" class="">
+                    <circle id="Oval" stroke="#78ae42" cx="31" cy="31" r="31" class="si-duo-circle-gear-circle si-duo-circle-gear-stroke si-duo-circle-gear-base si-duo-stroke si-duo-base" style=""></circle>
+                    <path d="M46,34 L46,28 L42.6,28 C42.3,26.9 41.9,25.9 41.3,24.9 L43.7,22.5 L39.5,18.3 L37.1,20.7 C36.1,20.1 35.1,19.7 34,19.4 L34,16 L28,16 L28,19.4 C26.9,19.7 25.9,20.1 24.9,20.7 L22.5,18.3 L18.3,22.5 L20.7,24.9 C20.1,25.9 19.7,26.9 19.4,28 L16,28 L16,34 L19.4,34 C19.7,35.1 20.1,36.1 20.7,37.1 L18.3,39.5 L22.5,43.7 L24.9,41.3 C25.9,41.9 26.9,42.3 28,42.6 L28,46 L34,46 L34,42.6 C35.1,42.3 36.1,41.9 37.1,41.3 L39.5,43.7 L43.7,39.5 L41.3,37.1 C41.9,36.1 42.3,35.1 42.6,34 L46,34 L46,34 Z" id="Shape" stroke="#78ae42" class="si-duo-circle-gear-gear si-duo-circle-gear-stroke si-duo-circle-gear-base si-duo-stroke si-duo-base" style=""></path>
+                    <circle id="Oval_1_" stroke="rgb(56, 132, 152)" cx="31" cy="31" r="4" class="si-duo-circle-gear-gear-circle si-duo-circle-gear-gear si-duo-circle-gear-stroke si-duo-circle-gear-accent si-duo-stroke si-duo-accent" style=""></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
