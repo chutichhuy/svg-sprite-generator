@@ -1,0 +1,8 @@
+#! /usr/bin/env node
+// -*- js -*-
+
+"use strict";
+
+var generator = require("../lib/generator");
+generator();
+

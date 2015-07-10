@@ -37,6 +37,7 @@ let publicWriteToConsole = function (svgs) {
     });
 };
 
+export {getSpriteXml as getSpriteXml};
 export {publicWriteToFile as writeToFile};
 export {publicWriteToConsole as writeToConsole};
 

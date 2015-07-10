@@ -1,5 +1,5 @@
 import * as writer from "./writer";
-import {default as srcArray} from "./source/array";
+import {default as srcList} from "./source/list";
 import {default as srcCsv} from "./source/csv";
 import {default as srcFolder} from "./source/folder";
 import {default as srcSprite} from "./source/sprite";
@@ -28,7 +28,7 @@ export default function () {
             case "directory":
                 return srcFolder(program.directory);
             case "list":
-                return srcArray(program.list.split(",").map(function (i) {
+                return srcList(program.list.split(",").map(function (i) {
                     return i.trim();
                 }));
         }
