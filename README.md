@@ -1,12 +1,12 @@
 # svg-sprite-generator
 
-A SVG sprite generator. It takes a list of SVG files and make a single sprite file using ```<symbol>``` elements. 
+While other sprite generators require writing script and config, our SVG sprite generator is created for designers who are not fond of coding. It takes a list of SVG files and make a single sprite file using ```<symbol>``` elements. 
 
-Helpful for icon systems.
+SVG sprite generator is a helpful for creating icon systems.
 
 ## Installation
 
-This program need [Node.js](http://nodejs.org) to run. When Node is already in your system, use ```npm``` to install the generator:
+This program needs [Node.js](http://nodejs.org) to run. If Node already existed in your system, use ```npm``` to install the generator:
 
 ```
 npm install -g svg-sprite-generator
