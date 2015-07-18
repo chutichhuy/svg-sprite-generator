@@ -1,6 +1,6 @@
 # svg-sprite-generator
 
-While other sprite generators require writing script and config, our SVG sprite generator is created for designers who are not fond of coding. It takes a list of SVG files and make a single sprite file using ```<symbol>``` elements. 
+Unlike similar Gulp or Grunt tools, our SVG sprite generator is created for designers who are not fond of coding. This tool simply takes a list of SVG files and make a single sprite file using ```<symbol>``` elements. 
 
 SVG sprite generator is a helpful for creating icon systems.
 
