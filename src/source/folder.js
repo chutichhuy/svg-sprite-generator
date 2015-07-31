@@ -13,7 +13,10 @@ export default function (folderPath) {
                     return rej(err);
                 }
 
-                files.forEach(function (f) {
+                files.filter(function (f) {
+                    // only take svg
+                    return /\.svg/.test(f);
+                }).forEach(function (f) {
                     q.push({
                         file: folderPath + "/" + f
                     });
