@@ -16,15 +16,23 @@ let writeToFile = function (destPath, content) {
 let getSpriteXml = function (svgs) {
     return '<?xml version="1.0" encoding="utf-8"?>' + "\n" +
         '<svg xmlns="http://www.w3.org/2000/svg">' + "\n" +
-        svgs.map(function (s) {
-            return '<symbol' + 
-                (s.id ? (' id="' + s.id + '"') : '') +
-                (s.viewBox ? (' viewBox="' + s.viewBox + '"') : '') +
-                '>'
-                + s.content
-                + "\n"
-                + '</symbol>';
-        }).join("\n") + '</svg>';
+        // Adding attributes to individual `symbol` tags
+        return `<symbol${
+            s.id ? ' id="' + s.id + '"' : ''
+        }${
+            s.viewBox ? ' viewBox="' + s.viewBox + '"' : ''
+        }${
+            s.fill ? ` fill="${s.fill}"` : ''
+        }${
+            s.stroke ? ` stroke="${s.stroke}"` : ''
+        }${
+            s.strokeWidth ? ` stroke-width="${s.strokeWidth}"` : ''
+        }${
+            s.strokeLinecap ? ` stroke-linecap="${s.strokeLinecap}"` : ''
+        }${
+            s.strokeLinejoin ? ` stroke-linejoin="${s.strokeLinejoin}"` : ''
+        }>${s.content}\n</symbol>`;
+    }).join('\n') + '</svg>';
 };
 
 let publicWriteToFile = function (filePath, svgs) {
